@@ -11,6 +11,7 @@ There is a folder that contains the comps of the pages you will be building, as 
 ## Details and Specifications
 
 You should work through building the compositions we've provided in the following order:
+
 1. Services
 2. Masseurs
 3. Contact
@@ -18,7 +19,7 @@ You should work through building the compositions we've provided in the followin
 5. Homepage
 6. Booking
 
-Set up your files as php files, but know that -- to start -- the implementation that we expect from you will almost entirely be HTML and CSS. 
+Set up your files as PHP files, but know that -- to start -- the implementation that we expect from you will almost entirely be HTML and CSS. 
 
 The only php component you need to build in the next few days is the highlighted list items in the site's navigation bar.
 
