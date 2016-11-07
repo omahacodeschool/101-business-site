@@ -21,16 +21,16 @@ You should work through building the compositions we've provided in the followin
 
 Set up your files as PHP files, but know that -- to start -- the implementation that we expect from you will almost entirely be HTML and CSS. 
 
-The only php component you need to build in the next few days is the highlighted list items in the site's navigation bar.
+The only php component you need to build at the beginning of the project is the highlighted list items in the site's navigation bar.
 
-We'll roll out more-challenging PHP components as bonuses as you continue to work through the site.
+After you get through the fourth composition, feel free to also challenge yourself with at least one of [these PHP additions.](https://github.com/omahacodeschool/web-dev-101/blob/master/homework/06-monday.md)
 
 :exclamation: At the end of this assignment you will have accomplished: :exclamation:
 - [ ] A build of all six pages of the site
 - [ ] Adherence to BEM convention throughout your work
 - [ ] Correct implementation of Flexbox
 - [ ] Refactored CSS (we will work with you on this!)
-- [ ] At least one of the PHP bonuses we provide
+- [ ] At least one of the outlind [PHP additions](https://github.com/omahacodeschool/web-dev-101/blob/master/homework/06-monday.md)
 
 
 
